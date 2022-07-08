@@ -1,0 +1,11 @@
+The provided data set is a modification of the UCI cover type data set with a couple important transformations
+	* We have removed all but two classification
+		Spruce/Fir = 0
+		Lodgepole Pine = 1
+	* We have collapsed the original 40 binary columns for soil type down to one column Soil_Type
+	* We have collapsed the original 4 binary columns for wilderness area down to one column Wilderness_Area
+
+More information about this data can be found in the accompanying file, original_data.info. Please feel free to
+utilize as much or as little of the original information as you deem necessary.
+
+Good Luck!
